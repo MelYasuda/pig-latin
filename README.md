@@ -32,6 +32,8 @@ _Pig Latin Translator_
 | A word with one consonant      | yes      |   esyay |
 | A word with two consonants | proof      |    oofpray |
 | A word with three consonants | Christmas      |    istmasChray |
+| A word with qu | quick, squeal      |    ickquay, ealsquay |
+| A word with consonant y | pychology      |    ologyPychay |
 
 ## Known Bugs
 
